@@ -4,10 +4,13 @@
 ## 🔍 File System Navigation
 - List the contents of the home directory.
 ![alt text](./screenshots/image-1.png)
+
 - Change the current directory to /var/log and list its contents.
 ![alt text](./screenshots/image-2.png)
+
 - Find and display the path to the bash executable using the which command.
 ![alt text](./screenshots/image-3.png)
+
 - Find current shell
 ![alt text](./screenshots/image-4.png)
 
