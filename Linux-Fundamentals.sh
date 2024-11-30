@@ -157,7 +157,7 @@ cat hardlink.txt
 find /home -type f -iname "*.txt" -exec basename {} \;
 
 #i - ignore case sensitivity
-
+#--------Package Installation----------
 # Update repo cache using apt/apt-get'
 ##recently updated its packages
 sudo apt-get update 
