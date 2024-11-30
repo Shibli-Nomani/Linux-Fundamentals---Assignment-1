@@ -9,9 +9,11 @@
 ![alt text](./screenshots/image-2.png)
 
 - Find and display the path to the bash executable using the which command.
+
 ![alt text](./screenshots/image-3.png)
 
 - Find current shell
+
 ![alt text](./screenshots/image-4.png)
 
 ## 📁 File and Directory Operations
